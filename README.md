@@ -10,3 +10,7 @@ The primary objectives of the Health Care Website project are as follows:
 - Information Hub: Provide comprehensive details about doctors, services, and health facilities.
 - User Engagement: Enhance interaction through news updates, patient testimonials, and frequently asked questions.
 - Responsive Design: Ensure accessibility and usability for both desktop and mobile users.
+
+
+With the following link any one can download and run this site :
+https://drive.google.com/drive/folders/1DHNm9N7tngDGyr1heH1LuMAY_WsEHHl1?usp=sharing
