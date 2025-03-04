@@ -1,4 +1,4 @@
-# CODE-CEURAL
+# CODE-NEURAL
 Hackathon at ASCE - 2025.
 
 
