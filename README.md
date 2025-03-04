@@ -83,3 +83,7 @@ Conclusion :
 
 This project report is structured to provide a clear and comprehensive overview of the Health Care Website project, detailing its objectives, scope, deliverables, and future potential. It is tailored for the hackathon judges, showcasing the team's efforts and the project's significance in the healthcare domain.
 
+
+Explained video link of our site functionalities :
+https://drive.google.com/file/d/1VykVKY_U6_pVjr4E4TuMUCJIvOjA2J85/view?usp=sharing
+
